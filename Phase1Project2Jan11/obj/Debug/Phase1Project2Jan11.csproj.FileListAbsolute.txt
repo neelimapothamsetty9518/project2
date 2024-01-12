@@ -1,0 +1,7 @@
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase1Project2Jan11\Phase1Project2Jan11\bin\Debug\Phase1Project2Jan11.exe.config
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase1Project2Jan11\Phase1Project2Jan11\bin\Debug\Phase1Project2Jan11.exe
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase1Project2Jan11\Phase1Project2Jan11\bin\Debug\Phase1Project2Jan11.pdb
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase1Project2Jan11\Phase1Project2Jan11\obj\Debug\Phase1Project2Jan11.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase1Project2Jan11\Phase1Project2Jan11\obj\Debug\Phase1Project2Jan11.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase1Project2Jan11\Phase1Project2Jan11\obj\Debug\Phase1Project2Jan11.exe
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase1Project2Jan11\Phase1Project2Jan11\obj\Debug\Phase1Project2Jan11.pdb
